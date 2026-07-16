@@ -1,209 +1,191 @@
-<h1 align="center">Hi 👋, I Peneti Karthik</h1>
+<h1 align="center">Hi 👋, I'm Peneti Karthik</h1>
 
 <h3 align="center">
 Python Developer | Backend Development Enthusiast | Analytical Problem Solver
 </h3>
 
 <p align="center">
-I am passionate about building reliable, practical, and maintainable software solutions using Python, SQL, REST APIs, and modern development tools.
+Building practical, reliable and maintainable software solutions using Python, SQL, REST APIs and modern development tools.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ipenetikarthik">
+    <img src="https://img.shields.io/badge/GitHub-ipenetikarthik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ipenetikarthik">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Peneti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://ipenetikarthik.blogpage.com">
+    <img src="https://img.shields.io/badge/Blog-Visit%20My%20Blog-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Python Developer with a strong interest in backend development, database management, API development, automation, and problem-solving.
+I am a Python Developer with a strong foundation in Python, SQL, object-oriented programming, data structures, problem-solving, REST APIs, Git and GitHub.
 
-My journey has helped me develop discipline, patience, consistency, and analytical thinking. Before focusing completely on software development, I prepared seriously for the UPSC Civil Services Examination. That experience strengthened my ability to understand complex concepts, manage time effectively, remain consistent, and continue working toward goals despite challenges.
+I enjoy analysing requirements, solving technical problems and developing clean, reliable and maintainable software applications. My primary interests include Python development, backend development, database management, API development and automation.
 
-I am now applying the same dedication and structured thinking to programming and software development.
+I hold a degree in **Mechanical Engineering from Amrita Vishwa Vidyapeetham, Coimbatore**. I chose Mechanical Engineering because of my passion for science, engineering, innovation and the aspiration to serve the country through prestigious research and defence organisations such as **DRDO** and **ISRO**.
 
-I enjoy transforming ideas and requirements into clean, understandable, and useful applications. I continuously improve my technical knowledge by building projects, solving programming problems, learning development best practices, and exploring new technologies.
+My engineering education strengthened my analytical thinking, mathematical reasoning, technical understanding, attention to detail and structured approach to solving complex problems. I remain grateful for the knowledge, discipline and engineering mindset that I developed during graduation.
+
+My preparation for the UPSC Civil Services Examination further strengthened my consistency, patience, resilience, time management, analytical ability and capacity to understand complex subjects.
+
+Today, I apply this combination of engineering knowledge, disciplined preparation and continuous learning to software development. I believe that good software is created by understanding the problem clearly, designing a practical solution, writing maintainable code and continuously improving through feedback and experience.
 
 ---
 
-## 🚀 What I Do
+## 🎓 Education
 
-- Develop programs and applications using Python
-- Work with SQL databases and database queries
-- Understand and implement REST API concepts
-- Use Git and GitHub for version control
-- Build practical projects to improve development skills
-- Practice object-oriented programming and problem-solving
-- Learn backend application architecture
-- Write readable, structured, and maintainable code
+### Bachelor of Technology in Mechanical Engineering
+
+**Amrita Vishwa Vidyapeetham, Coimbatore**
+
+My engineering education helped me develop:
+
+- Analytical and logical reasoning
+- Mathematical problem-solving
+- Engineering design thinking
+- Technical documentation skills
+- Understanding of complex systems
+- Attention to accuracy and detail
+- Structured problem-solving
+- Discipline and continuous learning
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Language
+### Programming and Core Concepts
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-6A5ACD?style=for-the-badge" alt="Object-Oriented Programming">
+  <img src="https://img.shields.io/badge/Data%20Structures-Problem%20Solving-008080?style=for-the-badge" alt="Data Structures">
 </p>
 
-### Database
+### Database and Backend
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Backend and API Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-Data_Format-black?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/JSON-Data%20Format-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Code_Hosting-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
 
 ---
 
-## 🧠 Python Knowledge
+## 🧠 Core Knowledge
 
-I am developing and strengthening my knowledge in:
-
-- Python syntax and programming fundamentals
-- Variables, data types, operators, and control statements
-- Functions and reusable code
-- Lists, tuples, sets, and dictionaries
-- String manipulation
-- File handling
-- Exception handling
-- Modules and packages
-- Object-oriented programming
-- Classes and objects
-- Constructors
-- Inheritance
-- Encapsulation
-- Abstraction
-- Polymorphism
-- Debugging and error resolution
-- Writing clean and reusable Python code
-
----
-
-## 🗄️ Database Knowledge
-
-I am working with SQL concepts such as:
-
-- Database and table creation
-- Data insertion, updating, and deletion
-- SELECT queries
-- WHERE, ORDER BY, and GROUP BY
-- Aggregate functions
-- SQL joins
-- Subqueries
-- Primary keys and foreign keys
-- Constraints
-- Database relationships
-- Data filtering and reporting
+<table>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>Functions, collections, file handling, modules, exception handling, type hints and modular programming</td>
+  </tr>
+  <tr>
+    <td><strong>Object-Oriented Programming</strong></td>
+    <td>Classes, objects, constructors, inheritance, encapsulation, abstraction and polymorphism</td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td>CRUD operations, joins, subqueries, aggregate functions, constraints, keys and database relationships</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Concepts</strong></td>
+    <td>REST APIs, JSON, request-response flow, authentication fundamentals and database integration</td>
+  </tr>
+  <tr>
+    <td><strong>Development Practices</strong></td>
+    <td>Clean code, input validation, error handling, debugging, documentation and version control</td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Backend Development Interests
+## 🚀 Development Focus
 
-My backend development interests include:
-
-- RESTful API development
-- Client-server communication
-- Request and response handling
-- JSON data processing
-- CRUD operations
-- Authentication fundamentals
-- Database integration
-- Error handling
-- Backend business logic
-- Application security fundamentals
+- Developing practical applications using Python
+- Strengthening backend-development fundamentals
+- Designing and working with SQL databases
+- Understanding and implementing REST APIs
+- Writing readable and maintainable code
+- Improving data structures and problem-solving skills
+- Learning testing, debugging and secure coding practices
+- Using Git and GitHub professionally
+- Building a strong software-development portfolio
 
 ---
 
-## 📚 Currently Learning
+## 📂 Featured Project
 
-- Advanced Python programming
-- Backend development using Python
-- Database integration with Python
-- REST API design and development
-- Authentication and authorization
-- Data structures and algorithms
-- Unit testing and debugging
-- Software development best practices
-- Git and collaborative development workflows
-- Deployment fundamentals
+### Python Command-Line Task Manager
 
----
+A menu-driven Python application that allows users to manage tasks through a command-line interface.
 
-## 🎯 Current Goals
+#### Key Features
 
-- Build strong real-world Python projects
-- Improve backend development knowledge
-- Develop secure and reliable REST APIs
-- Strengthen SQL and database skills
-- Improve logical and coding problem-solving abilities
-- Contribute to meaningful software projects
-- Learn from experienced developers
-- Grow into a skilled Python Backend Developer
+- Add new tasks
+- View saved tasks
+- Mark tasks as completed
+- Delete existing tasks
+- Store task data using JSON
+- Validate user input
+- Handle file and JSON errors
+- Maintain a clean and modular code structure
+
+<p>
+  <a href="https://github.com/ipenetikarthik/python-mini-projects">
+    <img src="https://img.shields.io/badge/View%20Repository-Python%20Mini%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python Mini Projects">
+  </a>
+</p>
 
 ---
 
 ## 💼 Professional Strengths
 
-Along with technical skills, I bring:
-
 - Analytical thinking
+- Engineering mindset
+- Problem-solving ability
 - Discipline and consistency
-- Strong learning ability
-- Problem-solving mindset
-- Patience and perseverance
-- Time management
+- Patience and resilience
 - Attention to detail
+- Time management
 - Adaptability
-- Responsibility
+- Technical curiosity
 - Clear communication
-- Ability to work independently and with a team
+- Independent learning
+- Team collaboration
+- Responsibility and accountability
+- Commitment to continuous improvement
 
 ---
 
-## 🏛️ My UPSC Journey
+## 🏛️ UPSC Preparation
 
-My UPSC Civil Services preparation was one of the most valuable learning experiences of my life.
+My preparation for the UPSC Civil Services Examination was an important part of my personal and professional development.
 
-It helped me develop:
+It strengthened my:
 
-- A disciplined daily routine
-- The ability to study complex subjects
-- Strong analytical and reasoning skills
+- Discipline and consistency
+- Analytical and reasoning abilities
 - Time and priority management
 - Patience under pressure
-- Consistency over long periods
+- Ability to understand complex subjects
 - Resilience after setbacks
-- A continuous-learning mindset
+- Long-term focus
+- Continuous-learning mindset
 
-Although my professional focus is now software development, the qualities developed during this journey continue to guide my work as a developer.
-
----
-
-## 📂 Projects
-
-I use GitHub to publish projects that demonstrate my knowledge of:
-
-- Python programming
-- Object-oriented programming
-- SQL and database operations
-- REST APIs
-- File handling
-- Automation
-- Problem-solving
-- Backend application development
-
-Each project helps me apply theoretical concepts to practical software-development situations.
+These qualities continue to guide my approach to software development and professional growth.
 
 ---
 
@@ -212,35 +194,115 @@ Each project helps me apply theoretical concepts to practical software-developme
 I am interested in opportunities related to:
 
 - Python Development
-- Backend Development
+- Python Backend Development
 - Junior Software Development
 - REST API Development
 - Database Development
 - Python Automation
-- Entry-level Software Engineering
+- Backend Application Development
+- Entry-Level Software Engineering
+- Graduate Software Engineering
 
-I am eager to work with a professional development team, contribute to meaningful projects, and continuously improve my technical abilities.
+I look forward to contributing to meaningful projects, learning from experienced professionals and continuously improving my technical abilities.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Profiles
 
-- 📝 **Blog:** [ipenetikarthik.blogpage.com](https://ipenetikarthik.blogpage.com)
-- 🔬 **ORCID:** [0009-0004-6000-6129](https://orcid.org/0009-0004-6000-6129)
-- 💻 **GitHub:** Explore my repositories to view my projects and learning journey
+<p align="center">
+  <a href="https://github.com/ipenetikarthik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ipenetikarthik">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://ipenetikarthik.blogpage.com">
+    <img src="https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://orcid.org/0009-0004-6000-6129">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
+
+---
+
+## 📢 Content and Community Profiles
+
+<p align="center">
+  <a href="https://www.youtube.com/@ipenetikarthik">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/ipenetikarthik">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://x.com/ipenetikarthik">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.reddit.com/user/ipenetikarthik/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://www.quora.com/profile/ipenetikarthik">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora">
+  </a>
+</p>
+
+---
+
+## 📱 Social Media Profiles
+
+<p align="center">
+  <a href="https://www.instagram.com/ipenetikarthik">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.threads.net/@ipenetikarthik">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61573628685913">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.snapchat.com/@ipenetikarthik">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.pinterest.com/ipenetikarthik">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
+</p>
+
+---
+
+## 🔗 Profile Links
+
+| Platform | Profile |
+|---|---|
+| GitHub | [github.com/ipenetikarthik](https://github.com/ipenetikarthik) |
+| LinkedIn | [linkedin.com/in/ipenetikarthik](https://www.linkedin.com/in/ipenetikarthik) |
+| Blog | [ipenetikarthik.blogpage.com](https://ipenetikarthik.blogpage.com) |
+| ORCID | [0009-0004-6000-6129](https://orcid.org/0009-0004-6000-6129) |
+| YouTube | [youtube.com/@ipenetikarthik](https://www.youtube.com/@ipenetikarthik) |
+| Telegram | [t.me/ipenetikarthik](https://t.me/ipenetikarthik) |
+| Instagram | [instagram.com/ipenetikarthik](https://www.instagram.com/ipenetikarthik) |
+| X | [x.com/ipenetikarthik](https://x.com/ipenetikarthik) |
+| Threads | [threads.net/@ipenetikarthik](https://www.threads.net/@ipenetikarthik) |
+| Facebook | [Facebook Profile](https://www.facebook.com/profile.php?id=61573628685913) |
+| Reddit | [reddit.com/user/ipenetikarthik](https://www.reddit.com/user/ipenetikarthik/) |
+| Quora | [quora.com/profile/ipenetikarthik](https://www.quora.com/profile/ipenetikarthik) |
+| Snapchat | [snapchat.com/@ipenetikarthik](https://www.snapchat.com/@ipenetikarthik) |
+| Pinterest | [pinterest.com/ipenetikarthik](https://www.pinterest.com/ipenetikarthik) |
 
 ---
 
 ## 💡 Development Philosophy
 
-> “Good software is created through clear thinking, continuous learning, consistent practice, and attention to detail.”
+> Good software begins with a clear understanding of the problem and grows through thoughtful design, consistent practice, careful testing and continuous improvement.
 
-I believe that becoming a strong developer is not only about learning programming languages. It is also about understanding problems, designing practical solutions, writing maintainable code, accepting feedback, and improving every day.
+I believe software development is not only about writing code. It is also about understanding requirements, designing practical solutions, maintaining quality, documenting work clearly, accepting feedback and improving continuously.
 
 ---
 
-<h3 align="center">Thank you for visiting my GitHub profile! 😊</h3>
+<p align="center">
+  <strong>Engineering mindset. Developer journey. Continuous learning.</strong>
+</p>
 
 <p align="center">
-Feel free to explore my repositories and follow my software-development journey.
+  Thank you for visiting my GitHub profile.
 </p>
