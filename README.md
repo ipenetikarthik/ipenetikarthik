@@ -15,7 +15,7 @@ Building practical, reliable and maintainable software solutions using Python, S
   <a href="https://www.linkedin.com/in/ipenetikarthik">
     <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Peneti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[ipenetikarthik.blogpage.com](https://ipenetikarthik.blogspot.com/)">
+  <a href="https://ipenetikarthik.blogspot.com/">
     <img src="https://img.shields.io/badge/Blog-Visit%20My%20Blog-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog">
   </a>
 </p>
