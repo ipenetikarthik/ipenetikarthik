@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peneti Karthik</h1>
+<h1 align="center">Hi 👋, I Peneti Karthik</h1>
 
 <h3 align="center">
 Python Developer | Backend Development Enthusiast | Analytical Problem Solver
