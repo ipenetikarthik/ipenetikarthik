@@ -148,17 +148,32 @@ A practical expense-management application for recording, viewing, analysing and
 
 The application provides category-wise and monthly spending summaries while storing records locally using JSON.
 
-**Key concepts:** Python, JSON, datetime, sorting, calculations, file handling, input validation, exception handling and modular programming.
+**Key concepts:** Python, JSON, datetime, sorting, calculations, file handling, input validation, exception handling, `TypedDict` and modular programming.
 
 <p>
   <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/02-expense-tracker">
     <img src="https://img.shields.io/badge/View%20Project-Expense%20Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Expense Tracker">
   </a>
+</p>
+
+---
+
+### 03 — Python Contact Management System
+
+A command-line contact management application for creating, viewing, searching, editing and deleting contact records.
+
+The application validates phone numbers and email addresses, prevents duplicate records, displays contact statistics and stores data locally using JSON.
+
+**Key concepts:** Python, JSON, CRUD operations, regular expressions, searching, input validation, duplicate detection, exception handling, `TypedDict`, `Final` and modular programming.
+
+<p>
+  <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/03-contact-management-system">
+    <img src="https://img.shields.io/badge/View%20Project-Contact%20Manager-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Contact Management System">
+  </a>
   <a href="https://github.com/ipenetikarthik/python-mini-projects">
     <img src="https://img.shields.io/badge/View%20Repository-Python%20Mini%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python Mini Projects">
   </a>
 </p>
-
 ---
 
 ## 💼 Professional Strengths
