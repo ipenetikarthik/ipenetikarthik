@@ -126,24 +126,34 @@ My engineering education helped me develop:
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
-### Python Command-Line Task Manager
+### 01 — Python Command-Line Task Manager
 
-A menu-driven Python application that allows users to manage tasks through a command-line interface.
+A menu-driven Python application for creating, viewing, completing and deleting tasks while storing data locally using JSON.
 
-#### Key Features
-
-- Add new tasks
-- View saved tasks
-- Mark tasks as completed
-- Delete existing tasks
-- Store task data using JSON
-- Validate user input
-- Handle file and JSON errors
-- Maintain a clean and modular code structure
+**Key concepts:** Python functions, lists, dictionaries, file handling, JSON, exception handling, input validation and type hints.
 
 <p>
+  <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/01-task-manager">
+    <img src="https://img.shields.io/badge/View%20Project-Task%20Manager-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Task Manager">
+  </a>
+</p>
+
+---
+
+### 02 — Python Command-Line Expense Tracker
+
+A practical expense-management application for recording, viewing, analysing and deleting expenses.
+
+The application provides category-wise and monthly spending summaries while storing records locally using JSON.
+
+**Key concepts:** Python, JSON, datetime, sorting, calculations, file handling, input validation, exception handling and modular programming.
+
+<p>
+  <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/02-expense-tracker">
+    <img src="https://img.shields.io/badge/View%20Project-Expense%20Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Expense Tracker">
+  </a>
   <a href="https://github.com/ipenetikarthik/python-mini-projects">
     <img src="https://img.shields.io/badge/View%20Repository-Python%20Mini%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python Mini Projects">
   </a>
