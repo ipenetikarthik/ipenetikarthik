@@ -126,45 +126,49 @@ My engineering education helped me develop:
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 01 — Python Command-Line Task Manager
+### 01. Command-Line Task Manager
 
-A menu-driven Python application for creating, viewing, completing and deleting tasks while storing data locally using JSON.
+A menu-driven Python application for creating, viewing, completing and deleting tasks with JSON-based local storage.
 
-**Key concepts:** Python functions, lists, dictionaries, file handling, JSON, exception handling, input validation and type hints.
+**Key concepts:** Python, JSON, file handling, functions, validation, exception handling and type hints.
 
-<p>
-  <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/01-task-manager">
-    <img src="https://img.shields.io/badge/View%20Project-Task%20Manager-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Task Manager">
-  </a>
-</p>
+[View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/01-task-manager)
 
 ---
 
-### 02 — Python Command-Line Expense Tracker
+### 02. Command-Line Expense Tracker
 
-A practical expense-management application for recording, viewing, analysing and deleting expenses.
+A Python expense-management application that records expenses and generates category-wise and monthly summaries.
 
-The application provides category-wise and monthly spending summaries while storing records locally using JSON.
+**Key concepts:** Python, JSON, datetime, calculations, sorting, validation, exception handling and TypedDict.
 
-**Key concepts:** Python, JSON, datetime, sorting, calculations, file handling, input validation, exception handling, `TypedDict` and modular programming.
-
-<p>
-  <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/02-expense-tracker">
-    <img src="https://img.shields.io/badge/View%20Project-Expense%20Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Expense Tracker">
-  </a>
-</p>
+[View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/02-expense-tracker)
 
 ---
 
-### 03 — Python Contact Management System
+### 03. Contact Management System
 
-A command-line contact management application for creating, viewing, searching, editing and deleting contact records.
+A command-line contact-management application supporting complete CRUD operations, search, validation, duplicate prevention and JSON storage.
 
-The application validates phone numbers and email addresses, prevents duplicate records, displays contact statistics and stores data locally using JSON.
+**Key concepts:** Python, JSON, regular expressions, CRUD operations, validation, searching, exception handling and strict type hints.
 
-**Key concepts:** Python, JSON, CRUD operations, regular expressions, searching, input validation, duplicate detection, exception handling, `TypedDict`, `Final` and modular programming.
+[View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/03-contact-management-system)
+
+---
+
+### 04. Secure Password Generator
+
+A customizable command-line password generator built with Python’s `secrets` module for cryptographically secure randomness.
+
+It supports multiple character groups, ambiguous-character exclusion, multiple-password generation and password-strength analysis.
+
+**Key concepts:** Python, secrets, dataclasses, security, input validation, secure shuffling, password analysis and Pylance-safe typing.
+
+[View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/04-password-generator)
+
+### ✅ Python Mini Projects Progress: 4 Projects Completed
 
 <p>
   <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/03-contact-management-system">
