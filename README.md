@@ -125,7 +125,6 @@ My engineering education helped me develop:
 - Building a strong software-development portfolio
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 01. Command-Line Task Manager
@@ -168,7 +167,17 @@ It supports multiple character groups, ambiguous-character exclusion, multiple-p
 
 [View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/04-password-generator)
 
-### ✅ Python Mini Projects Progress: 4 Projects Completed
+---
+
+### 05. Python Quiz Application
+
+A category-based command-line quiz application that loads questions from JSON and supports difficulty selection, randomized questions, answer explanations, grading and high-score tracking.
+
+**Key concepts:** Python, JSON, random sampling, dataclasses, TypedDict, filtering, validation, score calculation, file handling and strict type annotations.
+
+[View Project](https://github.com/ipenetikarthik/python-mini-projects/tree/main/05-quiz-application)
+
+### ✅ Python Mini Projects Progress: 5 Projects Completed
 
 <p>
   <a href="https://github.com/ipenetikarthik/python-mini-projects/tree/main/03-contact-management-system">
